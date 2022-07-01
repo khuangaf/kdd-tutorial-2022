@@ -1,4 +1,4 @@
-
+#### The Battlefront of Combating Misinformation and Coping with Media Bias
 
 ## Schedule
 August 14, 2022 (Tutorial time TBD)
@@ -51,7 +51,24 @@ Finally, we summarize the major remaining challenges in this space, including th
 <img align="left" src="images/yi.png" width="180" > **Yi Fung** is a second-year Ph.D. student at the Computer Science Department of UIUC, with research interests in knowledge reasoning, misinformation detection, and computation for the social good. Her recent works include the InfoSurgeon fake news detection framework, and multiview news summarization. Yi is a recipient of the NAACL'21 Best Demo Paper, the UIUC Lauslen and Andrew fellowship, and the National Association of Asian American Professionals Future Leaders award. She has also been previously selected for invited talk (1 hour presentation) at the Harvard Medical School Bioinformatics Seminar. Additional information is available at [https://yrf1.github.io](https://yrf1.github.io).
 
 
-<img align="left" src="images/kung-hsiang.jpeg" width="180" > **Kung-Hsiang Fung** is a first-year Ph.D. student at the Computer Science Department of UIUC. His research focuses on fact-checking and fake news detection. Prior to joining UIUC, he obtained his B.Eng. in Computer Science from the Hong Kong University of Science and Technology, and his M.S. in Computer Science from USC. He is also a co-founder of an AI startup, Rosetta.ai. Additional information is available at https://khuangaf.github.io([https://yrf1.github.io](https://khuangaf.github.io)).
+<img align="left" src="images/kung-hsiang.jpeg" width="180" > **Kung-Hsiang Huang** is a first-year Ph.D. student at the Computer Science Department of UIUC. His research focuses on fact-checking and fake news detection. Prior to joining UIUC, he obtained his B.Eng. in Computer Science from the Hong Kong University of Science and Technology, and his M.S. in Computer Science from USC. He is also a co-founder of an AI startup, Rosetta.ai. Additional information is available at https://khuangaf.github.io([https://yrf1.github.io](https://khuangaf.github.io)).
 
+
+<img align="left" src="images/preslav.png" width="180" > **Preslav Nakov** is a Principal Scientist at the Qatar Computing Research Institute (QCRI), HBKU, who received his PhD degree from the University of California at Berkeley (supported by a Fulbright grant). Dr. Nakov is President of ACL SIGLEX, Secretary of ACL SIGSLAV, a member of the EACL advisory board, as well as a member of the editorial board of Computational Linguistics, TACL, CS&L, IEEE TAC, NLE, AI Communications, and Frontiers in AI. His research on fake news was featured by over 100 news outlets, including Forbes, Boston Globe, Aljazeera, MIT Technology Review, Science Daily, Popular Science, The Register, WIRED, and Engadget, among others. He has driven relevant tutorials such as:
+
+* WSDM’22: Fact-Checking, Fake News, Propaganda, Media Bias, and the COVID-19 Infodemic.
+* CIKM'21: Fake News, Disinformation, Propaganda, and Media Bias.
+* EMNLP'20: Fact-Checking, Fake News, Propaganda, and Media Bias: Truth Seeking in the Post-Truth Era.
+
+Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Nakov](https://en.wikipedia.org/wiki/Preslav_Nakov).
+
+
+<img align="left" src="images/heng.JPG" width="180" > **Heng Ji**  is a Professor at the Computer Science Department of the University of Illinois Urbana-Champaign, and an Amazon Scholar. Her research interests focus on NLP, especially on Multimedia Multilingual Information Extraction, Knowledge Base Population and Knowledge-driven Generation. She was selected as ``Young Scientist'' and a member of the Global Future Council on the Future of Computing by the World Economic Forum. The awards she received include ``AI's 10 to Watch'' Award, NSF CAREER award, Google Research Award, IBM Watson Faculty Award, Bosch Research Award, Amazon AWS Award, ACL2020 Best Demo Paper Award, and NAACL2021 Best Demo Paper Award. She has given a large number of keynotes and 20 tutorials on Information Extraction, Natural Language Understanding, and Knowledge Base Construction in many conferences including but not limited to ACL, EMNLP, NAACL, NeurIPS, AAAI, SIGIR, WWW, IJCAI, COLING and KDD. A selected handful of her recent tutorials include:
+
+* AAAI’22: Deep Learning on Graphs for Natural Language Processing.
+* EMNLP’21: Knowledge-Enriched Natural Language Generation.
+* ACL’21: Event-Centric Natural Language Processing.
+
+Additional information is available at [https://blender.cs.illinois.edu/hengji.html](https://blender.cs.illinois.edu/hengji.html).
 
 For more information about this tutorial, please refer to our [proposal](#)
