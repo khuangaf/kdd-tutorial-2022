@@ -50,4 +50,8 @@ Finally, we summarize the major remaining challenges in this space, including th
 ## Tutors
 <img align="left" src="images/yi.png" width="180" > **Yi Fung** is a second-year Ph.D. student at the Computer Science Department of UIUC, with research interests in knowledge reasoning, misinformation detection, and computation for the social good. Her recent works include the InfoSurgeon fake news detection framework, and multiview news summarization. Yi is a recipient of the NAACL'21 Best Demo Paper, the UIUC Lauslen and Andrew fellowship, and the National Association of Asian American Professionals Future Leaders award. She has also been previously selected for invited talk (1 hour presentation) at the Harvard Medical School Bioinformatics Seminar. Additional information is available at [https://yrf1.github.io](https://yrf1.github.io).
 
+
+<img align="left" src="images/kung-hsiang.jpeg" width="180" > **Kung-Hsiang Fung** is a first-year Ph.D. student at the Computer Science Department of UIUC. His research focuses on fact-checking and fake news detection. Prior to joining UIUC, he obtained his B.Eng. in Computer Science from the Hong Kong University of Science and Technology, and his M.S. in Computer Science from USC. He is also a co-founder of an AI startup, Rosetta.ai. Additional information is available at https://khuangaf.github.io([https://yrf1.github.io](https://khuangaf.github.io)).
+
+
 For more information about this tutorial, please refer to our [proposal](#)
