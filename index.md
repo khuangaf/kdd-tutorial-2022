@@ -1,4 +1,4 @@
-## The Battlefront of Combating Misinformation and Coping with Media Bias
+
 
 ## Schedule
 August 14, 2022 (Tutorial time TBD)
