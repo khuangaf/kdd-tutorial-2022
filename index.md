@@ -82,4 +82,4 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 
 Additional information is available at [https://blender.cs.illinois.edu/hengji.html](https://blender.cs.illinois.edu/hengji.html).
 
-For more information about this tutorial, please refer to our [proposal](#)
+For more information about this tutorial, please refer to our [proposal](https://blender.cs.illinois.edu/paper/misinfotutorial2022.pdf).
