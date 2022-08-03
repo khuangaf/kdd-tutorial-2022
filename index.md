@@ -108,21 +108,18 @@ based on event graph reasoning. NAACL 2022
 
 #### Propagation Patterns
 
-1. L. Cheng, R. Guo, K. Shu, and H. Liu. Causal understanding of fake news dissemination on social media. KDD 2021
-2. Y.-J. Lu and C.-T. Li. GCAN: Graph-aware co-attention networks for explainable
-fake news detection on social media. ACL 2020
-3. K. Shu, D. Mahudeswaran, S. Wang, and H. Liu. Hierarchical propagation net-
-works for fake news detection: Investigation and exploitation. ICWSM 2020
+1. [Causal understanding of fake news dissemination on social media](https://dl.acm.org/doi/10.1145/3447548.3467321). Lu Cheng, Ruocheng Guo, Kai Shu, Huan Liu. KDD 2021
+2. [GCAN: Graph-aware co-attention networks for explainable fake news detection on social media](https://aclanthology.org/2020.acl-main.48/). Yi-Ju Lu, Cheng-Te Li. ACL 2020
+3. [Hierarchical propagation networks for fake news detection: Investigation and exploitation](https://ojs.aaai.org/index.php/ICWSM/article/view/7329). Kai Shu, Deepak Mahudeswaran, Suhang Wang, Huan Liu. ICWSM 2020
 
 #### Special notes on Fake News Generation
 
-1. R. Zellers, A. Holtzman, H. Rashkin, Y. Bisk, A. Farhadi, F. Roesner, and Y. Choi. Defending against neural fake news. NeurIPS 2019.
-2. S. Agarwal, H. Farid, Y. Gu, M. He, K. Nagano, and H. Li. Protecting world leaders against deep fakes. CVPR Workshops 2019.
-3. D. Güera and E. J. Delp. Deepfake video detection using recurrent neural networks. AVSS 2018.
-4. Y. Fung, C. Thomas, R. G. Reddy, S. Polisetty, H. Ji, S.-F. Chang, K. McKeown,
-M. Bansal, and A. Sil. InfoSurgeon: Cross-media fine-grained information consistency checking for fake news detection. ACL 2021
-5. K. Shu, Y. Li, K. Ding, and H. Liu. Fact-enhanced synthetic news generation. AAAI 2021
-6. Kung-Hsiang Huang, Kathleen McKeown, Preslav Nakov, Yejin Choi, Heng Ji . Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation. Arxiv 2022
+1. [Defending against neural fake news](https://proceedings.neurips.cc/paper/2019/file/3e9f0fc9b2f89e043bc6233994dfcf76-Paper.pdf). Rowan Zellers, Ari Holtzman, Hannah Rashkin, Yonatan Bisk, Ali Farhadi, Franziska Roesner, Yejin Choi. NeurIPS 2019.
+2. [Protecting world leaders against deep fakes](https://openaccess.thecvf.com/content_CVPRW_2019/html/Media_Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.html). Shruti Agarwal, Hany Farid, Yuming Gu, Mingming He, Koki Nagano, Hao Li. CVPR Workshops 2019.
+3. [Deepfake video detection using recurrent neural networks](https://ieeexplore.ieee.org/document/8639163/). David Guera, E. Delp. AVSS 2018.
+4. [InfoSurgeon: Cross-media fine-grained information consistency checking for fake news detection](https://aclanthology.org/2021.acl-long.133/). Yi Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal, Avi Sil. ACL 2021
+5. [Fact-enhanced synthetic news generation](https://ojs.aaai.org/index.php/AAAI/article/view/17629). Kai Shu, Yichuan Li, Kaize Ding, Huan Liu. AAAI 2021
+6. [Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation](https://arxiv.org/abs/2203.05386). Kung-Hsiang Huang, Kathleen McKeown, Preslav Nakov, Yejin Choi, Heng Ji. Arxiv 2022
 
 ### Fake News Characterization
 
