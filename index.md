@@ -80,6 +80,75 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 * EMNLP’21: Knowledge-Enriched Natural Language Generation.
 * ACL’21: Event-Centric Natural Language Processing.
 
+## Reading List
+### Fake News Detection
+
+#### Style
+
+1. L. Choshen, D. Eldad, D. Hershcovich, E. Sulem, and O. Abend. The language of legal and illegal activity on the Darknet. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, ACL ’19, pages 4271–4279, Florence, Italy, 2019.
+2. V. Pérez-Rosas, B. Kleinberg, A. Lefevre, and R. Mihalcea. Automatic detection of fake news. In Proceedings of the 27th International Conference on Computational Linguistics, COLING’18, pages 3391–3401, Santa Fe, NM, USA, 2018.
+3. H. Rashkin, E. Choi, J. Y. Jang, S. Volkova, and Y. Choi. Truth of varying shades: Analyzing language in fake news and political fact-checking. In Proceedings of the 2017 conference on empirical methods in natural language processing, pages 2931–2937, 2017.
+
+#### Fact Checking
+
+1. R. Baly, G. Karadzhov, D. Alexandrov, J. Glass, and P. Nakov. Predicting factuality of reporting and bias of news media sources. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 3528–3539, Brussels, Belgium, Oct.-Nov. 2018. Association for Computational Linguistics.
+2. Z. Guo, M. Schlichtkrull, and A. Vlachos. A survey on automated fact-checking. Transactions of the Association for Computational Linguistics, 10:178–206, 2022.
+3. L. Hu, T. Yang, L. Zhang, W. Zhong, D. Tang, C. Shi, N. Duan, and M. Zhou. Compare to the knowledge: Graph neural fake news detection with external knowledge. ACL-IJCNLP 2021 
+4. S. Shaar, N. Babulkov, G. Da San Martino, and P. Nakov. That is a known lie: Detecting previously fact-checked claims. ACL 2020
+
+#### Semantic Consistency
+
+1. H. Karimi and J. Tang. Learning hierarchical discourse-level structure for fake news detection. NAACL 2019
+2. X. Wu, K.-H. Huang, Y. Fung, and H. Ji. Cross-document misinformation detection
+based on event graph reasoning. NAACL 2022
+3. S. Aneja, C. Bregler, and M. Nießner. Cosmos: Catching out-of-context misinformation with self-supervised learning. Arxiv, 2021
+4. M. Huang, S. Jia, and S. Lyu. Text-Image De-Contextualization Detection Using Vision-Language Models. ICASSP 2022
+5. R. Tan, B. Plummer, and K. Saenko. Detecting cross-modal inconsistency to defend against neural fake news. EMNLP 2020
+6. K. Wang, D. Chan, S. Z. Zhao, J. Canny, and A. Zakhor. Misinformation detection in social media video posts. Arxiv 2022
+
+#### Propagation Patterns
+
+1. L. Cheng, R. Guo, K. Shu, and H. Liu. Causal understanding of fake news dissemination on social media. KDD 2021
+2. Y.-J. Lu and C.-T. Li. GCAN: Graph-aware co-attention networks for explainable
+fake news detection on social media. ACL 2020
+3. K. Shu, D. Mahudeswaran, S. Wang, and H. Liu. Hierarchical propagation net-
+works for fake news detection: Investigation and exploitation. ICWSM 2020
+
+#### Special notes on Fake News Generation
+
+1. R. Zellers, A. Holtzman, H. Rashkin, Y. Bisk, A. Farhadi, F. Roesner, and Y. Choi. Defending against neural fake news. NeurIPS 2019.
+2. S. Agarwal, H. Farid, Y. Gu, M. He, K. Nagano, and H. Li. Protecting world leaders against deep fakes. CVPR Workshops 2019.
+3. D. Güera and E. J. Delp. Deepfake video detection using recurrent neural networks. AVSS 2018.
+4. Y. Fung, C. Thomas, R. G. Reddy, S. Polisetty, H. Ji, S.-F. Chang, K. McKeown,
+M. Bansal, and A. Sil. InfoSurgeon: Cross-media fine-grained information consistency checking for fake news detection. ACL 2021
+5. K. Shu, Y. Li, K. Ding, and H. Liu. Fact-enhanced synthetic news generation. AAAI 2021
+6. Kung-Hsiang Huang, Kathleen McKeown, Preslav Nakov, Yejin Choi, Heng Ji . Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation. Arxiv 2022
+
+### Fake News Characterization
+
+1. L. Fan, M. White, E. Sharma, R. Su, P. K. Choubey, R. Huang, and L. Wang. In
+plain sight: Media bias through the lens of factual reporting. EMNLP 2019
+2. M. Forbes, J. D. Hwang, V. Shwartz, M. Sap, and Y. Choi. Social chemistry 101:
+Learning to reason about social and moral norms. EMNLP 2020
+3. V. Kulkarni, J. Ye, S. Skiena, and W. Y. Wang. Multi-view models for political
+ideology detection of news articles. EMNLP 2018
+4. J. Da, M. Forbes, R. Zellers, A. Zheng, J. D. Hwang, A. Bosselut, and Y. Choi.
+Edited media understanding frames: Reasoning about the intent and implications
+of visual misinformation. ACL 2021
+5. D. Dimitrov, B. Bin Ali, S. Shaar, F. Alam, F. Silvestri, H. Firooz, P. Nakov, and
+G. Da San Martino. Detecting propaganda techniques in memes. ACL 2021
+6. S. Pramanick, S. Sharma, D. Dimitrov, M. S. Akhtar, P. Nakov, and T. Chakraborty.
+MOMENTA: A multimodal framework for detecting harmful memes and their
+targets. Findings of EMNLP 2021.
+
+### Corrective Actions for Misinformation and Biased News Reporting
+
+1. N. M. Brashier, G. Pennycook, A. J. Berinsky, and D. G. Rand. Timing matters
+when correcting fake news. NAS 2021
+2. [dEFEND: Explainable fake news
+detection](https://dl.acm.org/doi/10.1145/3292500.3330935). Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu. KDD 2019
+3. [NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias](https://aclanthology.org/2022.naacl-main.228.pdf). Nayeon Lee, Yejin Bang, Tiezheng Yu, Andrea Madotto, Pascale Fung. NAACL 2022
+
 Additional information is available at [https://blender.cs.illinois.edu/hengji.html](https://blender.cs.illinois.edu/hengji.html).
 
 For more information about this tutorial, please refer to our [proposal](https://blender.cs.illinois.edu/paper/misinfotutorial2022.pdf).
