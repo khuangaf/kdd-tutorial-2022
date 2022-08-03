@@ -10,7 +10,11 @@ The growth of online platforms has greatly facilitated the way people communicat
 ## Target Audience and Prerequisites
 Based on the level of interest in this topic, we expect around 150 participants. While no specific background knowledge is assumed of the audience, it would be best for the attendees to know basic deep learning, pre-trained word embeddings (e.g., Word2Vec) and language models (e.g.,BERT).
 
+
+
+
 ## Outline
+[Tutorial Slides](https://docs.google.com/presentation/d/1RksGc0OEnip1mAVdnsdEM7RGdsJW47LD/edit?usp=sharing&ouid=117303641707262995340&rtpof=true&sd=true) (Please download the slides as PowerPoint format for best viewing.)
 ### Background and Motivation
 We begin motivating the tutorial topic with a selection of real-world examples of fake news and their harmful impacts to society, followed by a pedagogical exercise of how humans tend to approach the problem of fake news detection, characterization, and correction. We will point out conceptual distinctions amongst various types of fake news, including serious fabrication in news journalism about misattributed or nonexisting events, over-sensationalized clickbaits, hoaxes which are false with the intention to be picked up by traditional news websites and satire which mimic genuine news but contain irony and absurdity. For example, in general, news articles more likely involve serious fabrications, while social media posts involve more humour such as satire and hoaxes. We will also describe the cognitive, social and affective factors that lead people to form or endorse misinformed views (e.g., intuitive thinking, illusory truths, source cues, emotions, etc.), and the psychological barriers to knowledge revision after misinformation has been corrected, including correction not integrated, selective retrieval, and continued influence theories. 
 
