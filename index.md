@@ -85,26 +85,25 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 
 #### Style
 
-1. L. Choshen, D. Eldad, D. Hershcovich, E. Sulem, and O. Abend. The language of legal and illegal activity on the Darknet. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, ACL ’19, pages 4271–4279, Florence, Italy, 2019.
-2. V. Pérez-Rosas, B. Kleinberg, A. Lefevre, and R. Mihalcea. Automatic detection of fake news. In Proceedings of the 27th International Conference on Computational Linguistics, COLING’18, pages 3391–3401, Santa Fe, NM, USA, 2018.
-3. H. Rashkin, E. Choi, J. Y. Jang, S. Volkova, and Y. Choi. Truth of varying shades: Analyzing language in fake news and political fact-checking. In Proceedings of the 2017 conference on empirical methods in natural language processing, pages 2931–2937, 2017.
+1. [The language of legal and illegal activity on the Darknet](https://aclanthology.org/P19-1419/). Leshem Choshen, Dan Eldad, Daniel Hershcovich, Elior Sulem, Omri Abend. ACL 2019
+2. [Automatic detection of fake news](https://aclanthology.org/C18-1287/). Verónica Pérez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea. COLING 2018
+3. [Truth of varying shades: Analyzing language in fake news and political fact-checking](https://aclanthology.org/D17-1317/). Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi. EMNLP 2017.
 
 #### Fact Checking
 
-1. R. Baly, G. Karadzhov, D. Alexandrov, J. Glass, and P. Nakov. Predicting factuality of reporting and bias of news media sources. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 3528–3539, Brussels, Belgium, Oct.-Nov. 2018. Association for Computational Linguistics.
-2. Z. Guo, M. Schlichtkrull, and A. Vlachos. A survey on automated fact-checking. Transactions of the Association for Computational Linguistics, 10:178–206, 2022.
-3. L. Hu, T. Yang, L. Zhang, W. Zhong, D. Tang, C. Shi, N. Duan, and M. Zhou. Compare to the knowledge: Graph neural fake news detection with external knowledge. ACL-IJCNLP 2021 
-4. S. Shaar, N. Babulkov, G. Da San Martino, and P. Nakov. That is a known lie: Detecting previously fact-checked claims. ACL 2020
+1. [Predicting factuality of reporting and bias of news media sources](https://aclanthology.org/D18-1389/). Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass, Preslav Nakov. EMNLP 2018.
+2. [A survey on automated fact-checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking). Zhijiang Guo, Michael Schlichtkrull, Andreas Vlachos. TACL 2022.
+3. [Compare to the knowledge: Graph neural fake news detection with external knowledge](https://aclanthology.org/2021.acl-long.62/). Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. ACL 2021 
+4. [That is a known lie: Detecting previously fact-checked claims](https://aclanthology.org/2020.acl-main.332/). Shaden Shaar, Nikolay Babulkov, Giovanni Da San Martino, Preslav Nakov. ACL 2020
 
 #### Semantic Consistency
 
-1. H. Karimi and J. Tang. Learning hierarchical discourse-level structure for fake news detection. NAACL 2019
-2. X. Wu, K.-H. Huang, Y. Fung, and H. Ji. Cross-document misinformation detection
-based on event graph reasoning. NAACL 2022
-3. S. Aneja, C. Bregler, and M. Nießner. Cosmos: Catching out-of-context misinformation with self-supervised learning. Arxiv, 2021
-4. M. Huang, S. Jia, and S. Lyu. Text-Image De-Contextualization Detection Using Vision-Language Models. ICASSP 2022
-5. R. Tan, B. Plummer, and K. Saenko. Detecting cross-modal inconsistency to defend against neural fake news. EMNLP 2020
-6. K. Wang, D. Chan, S. Z. Zhao, J. Canny, and A. Zakhor. Misinformation detection in social media video posts. Arxiv 2022
+1. [Learning hierarchical discourse-level structure for fake news detection](https://aclanthology.org/N19-1347/). Hamid Karimi, Jiliang Tang. NAACL 2019
+2. [Cross-document misinformation detection based on event graph reasoning](https://aclanthology.org/2022.naacl-main.40/). Xueqing Wu, Kung-Hsiang Huang, Yi Fung, Heng Ji. NAACL 2022
+3. [Cosmos: Catching out-of-context misinformation with self-supervised learning](https://arxiv.org/abs/2101.06278). Shivangi Aneja, Chris Bregler, Matthias Nießner. Arxiv, 2021
+4. [Text-Image De-Contextualization Detection Using Vision-Language Models](https://ieeexplore.ieee.org/document/9746193). Mingzhen Huang, Shan Jia, Ming-Ching Chang, Siwei Lyu. ICASSP 2022
+5. [Detecting cross-modal inconsistency to defend against neural fake news](https://aclanthology.org/2020.emnlp-main.163/). Reuben Tan, Bryan Plummer, Kate Saenko. EMNLP 2020
+6. [Misinformation detection in social media video posts](https://arxiv.org/abs/2202.07706). Kehan Wang, David Chan, Seth Z. Zhao, J. Canny, A. Zakhor. Arxiv 2022
 
 #### Propagation Patterns
 
