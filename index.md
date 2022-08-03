@@ -126,25 +126,16 @@ M. Bansal, and A. Sil. InfoSurgeon: Cross-media fine-grained information consist
 
 ### Fake News Characterization
 
-1. L. Fan, M. White, E. Sharma, R. Su, P. K. Choubey, R. Huang, and L. Wang. In
-plain sight: Media bias through the lens of factual reporting. EMNLP 2019
-2. M. Forbes, J. D. Hwang, V. Shwartz, M. Sap, and Y. Choi. Social chemistry 101:
-Learning to reason about social and moral norms. EMNLP 2020
-3. V. Kulkarni, J. Ye, S. Skiena, and W. Y. Wang. Multi-view models for political
-ideology detection of news articles. EMNLP 2018
-4. J. Da, M. Forbes, R. Zellers, A. Zheng, J. D. Hwang, A. Bosselut, and Y. Choi.
-Edited media understanding frames: Reasoning about the intent and implications
-of visual misinformation. ACL 2021
-5. D. Dimitrov, B. Bin Ali, S. Shaar, F. Alam, F. Silvestri, H. Firooz, P. Nakov, and
-G. Da San Martino. Detecting propaganda techniques in memes. ACL 2021
-6. S. Pramanick, S. Sharma, D. Dimitrov, M. S. Akhtar, P. Nakov, and T. Chakraborty.
-MOMENTA: A multimodal framework for detecting harmful memes and their
-targets. Findings of EMNLP 2021.
+1. [In plain sight: Media bias through the lens of factual reporting](https://aclanthology.org/D19-1664/). Lisa Fan, Marshall White, Eva Sharma, Ruisi Su, Prafulla Kumar Choubey, Ruihong Huang, Lu Wang .EMNLP 2019
+2. [Social chemistry 101: Learning to reason about social and moral norms](https://aclanthology.org/2020.emnlp-main.48/). Maxwell Forbes, Jena D. Hwang, Vered Shwartz, Maarten Sap, Yejin Choi. EMNLP 2020
+3. [Multi-view models for political ideology detection of news articles](https://aclanthology.org/D18-1388/). Vivek Kulkarni, Junting Ye, Steve Skiena, William Yang Wang. EMNLP 2018
+4. [Edited media understanding frames: Reasoning about the intent and implications of visual misinformation](https://aclanthology.org/2021.acl-long.158/). Jeff Da, Maxwell Forbes, Rowan Zellers, Anthony Zheng, Jena D. Hwang, Antoine Bosselut, Yejin Choi. ACL 2021
+5. [Detecting propaganda techniques in memes](https://aclanthology.org/2021.acl-long.516/). Dimitar Dimitrov, Bishr Bin Ali, Shaden Shaar, Firoj Alam, Fabrizio Silvestri, Hamed Firooz, Preslav Nakov, Giovanni Da San Martino. ACL 2021
+6. [MOMENTA: A multimodal framework for detecting harmful memes and their targets](https://aclanthology.org/2021.findings-emnlp.379/). Shraman Pramanick, Shivam Sharma, Dimitar I. Dimitrov, Md. Shad Akhtar, Preslav Nakov, Tanmoy Chakraborty. Findings of EMNLP 2021
 
 ### Corrective Actions for Misinformation and Biased News Reporting
 
-1. N. M. Brashier, G. Pennycook, A. J. Berinsky, and D. G. Rand. Timing matters
-when correcting fake news. NAS 2021
+1. [Timing matters when correcting fake news](https://www.pnas.org/doi/full/10.1073/pnas.2020043118). Nadia M. Brashier, Gordon Pennycook, A. Berinsky, David G. Rand. PNAS 2021
 2. [dEFEND: Explainable fake news
 detection](https://dl.acm.org/doi/10.1145/3292500.3330935). Kai Shu, Limeng Cui, Suhang Wang, Dongwon Lee, Huan Liu. KDD 2019
 3. [NeuS: Neutral Multi-News Summarization for Mitigating Framing Bias](https://aclanthology.org/2022.naacl-main.228.pdf). Nayeon Lee, Yejin Bang, Tiezheng Yu, Andrea Madotto, Pascale Fung. NAACL 2022
