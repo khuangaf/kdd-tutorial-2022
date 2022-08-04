@@ -3,14 +3,9 @@
 ## Schedule
 August 14, 2022 (Sunday PM)
 
-## Abstract
-
-The growth of online platforms has greatly facilitated the way people communicate with each other and stay informed about trending events. However, it has also spawned unprecedented levels of inaccurate or misleading information, as traditional journalism gate-keeping fails to keep up with the pace of media dissemination. These undesirable phenomena have caused societies to be torn over irrational beliefs, money lost from impulsive stock market moves, and deaths occurred that could have been avoided during the COVID-19 pandemic, due to the infodemic that came forth with it, etc. Even people who do not believe the misinformation may still be plagued by the pollution of unhealthy content surrounding them, an unpleasant situation known as information disorder. Thus, it is of pertinent interest for our community to better understand, and to develop effective mechanisms for remedying, misinformation and biased reporting.
-
-## Target Audience and Prerequisites
-Based on the level of interest in this topic, we expect around 150 participants. While no specific background knowledge is assumed of the audience, it would be best for the attendees to know basic deep learning, pre-trained word embeddings (e.g., Word2Vec) and language models (e.g.,BERT).
-
 ## Table of Contents
+* [Abstract](#abstract)
+* [Target Audience and Prerequisites](#target-audience-and-prerequisites)
 * [Outline](#outline)
   * [Background and Motivation](#background-and-motivation)
   * [Fake News Detection](#fake-news-detection-60min)
@@ -21,6 +16,15 @@ Based on the level of interest in this topic, we expect around 150 participants.
   * [Concluding Remarks & Future Directions](#concluding-remarks--future-directions-30min)
 * [Tutors](#tutors)
 * [Reading List](#reading-list)
+
+## Abstract
+
+The growth of online platforms has greatly facilitated the way people communicate with each other and stay informed about trending events. However, it has also spawned unprecedented levels of inaccurate or misleading information, as traditional journalism gate-keeping fails to keep up with the pace of media dissemination. These undesirable phenomena have caused societies to be torn over irrational beliefs, money lost from impulsive stock market moves, and deaths occurred that could have been avoided during the COVID-19 pandemic, due to the infodemic that came forth with it, etc. Even people who do not believe the misinformation may still be plagued by the pollution of unhealthy content surrounding them, an unpleasant situation known as information disorder. Thus, it is of pertinent interest for our community to better understand, and to develop effective mechanisms for remedying, misinformation and biased reporting.
+
+## Target Audience and Prerequisites
+Based on the level of interest in this topic, we expect around 150 participants. While no specific background knowledge is assumed of the audience, it would be best for the attendees to know basic deep learning, pre-trained word embeddings (e.g., Word2Vec) and language models (e.g.,BERT).
+
+
 
 ## Outline
 [Tutorial Slides](https://docs.google.com/presentation/d/1RksGc0OEnip1mAVdnsdEM7RGdsJW47LD/edit?usp=sharing&ouid=117303641707262995340&rtpof=true&sd=true) (Please download the slides as PowerPoint format for best viewing.)
