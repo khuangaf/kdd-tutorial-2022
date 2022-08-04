@@ -16,7 +16,11 @@ Based on the level of interest in this topic, we expect around 150 participants.
   * [Fake News Detection](#fake-news-detection-60min)
     * [Special Note on Neural Fake News Generation & Detection](#special-note-on-neural-fake-news-generation--detection)
   * [Fake News Characterization](#fake-news-characterization-30min)
-
+  * [Corrective Actions for Misinformation and Biased News Reporting](#corrective-actions-for-misinformation-and-biased-news-reporting-30min)
+    * [Industry Initiatives](#industry-initiatives)
+  * [Concluding Remarks & Future Directions](#concluding-remarks--future-directions-30min)
+* [Tutors](#tutors)
+* [Reading List](#reading-list)
 
 ## Outline
 [Tutorial Slides](https://docs.google.com/presentation/d/1RksGc0OEnip1mAVdnsdEM7RGdsJW47LD/edit?usp=sharing&ouid=117303641707262995340&rtpof=true&sd=true) (Please download the slides as PowerPoint format for best viewing.)
