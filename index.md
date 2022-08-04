@@ -117,6 +117,12 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 7. [COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic](https://aclanthology.org/2021.acl-long.165/). Arkadiy Saakyan, Tuhin Chakrabarty, Smaranda Muresan. ACL 2021
 8. [“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection](https://aclanthology.org/P17-2067/). William Yang Wang. ACL 2017
 9. [X-Fact: A New Benchmark Dataset for Multilingual Fact Checking](https://aclanthology.org/2021.acl-short.86/). Ashim Gupta, Vivek Srikumar. ACL 2021
+10. [Integrating Stance Detection and Fact Checking in a Unified Corpus](https://aclanthology.org/N18-2004/). Ramy Baly, Mitra Mohtarami, James Glass, Lluís Màrquez, Alessandro Moschitti, Preslav Nakov. NAACL 2018
+11. [Stance Prediction and Claim Verification: An Arabic Perspective](https://aclanthology.org/2020.fever-1.2/). Jude Khouja. 2020 FEVER
+12. [Joint Rumour Stance and Veracity Prediction](https://aclanthology.org/W19-6122/). Anders Edelbo Lillie, Emil Refsgaard Middelboe, Leon Derczynski. 2019 NoDaLiDa
+13. [DanFEVER: claim verification dataset for Danish](https://aclanthology.org/2021.nodalida-main.47/) Jeppe Nørregaard, Leon Derczynski. 2021 NoDaLiDa
+
+
 
 
 
