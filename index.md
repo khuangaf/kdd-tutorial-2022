@@ -118,9 +118,24 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 8. [“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection](https://aclanthology.org/P17-2067/). William Yang Wang. ACL 2017
 9. [X-Fact: A New Benchmark Dataset for Multilingual Fact Checking](https://aclanthology.org/2021.acl-short.86/). Ashim Gupta, Vivek Srikumar. ACL 2021
 10. [Integrating Stance Detection and Fact Checking in a Unified Corpus](https://aclanthology.org/N18-2004/). Ramy Baly, Mitra Mohtarami, James Glass, Lluís Màrquez, Alessandro Moschitti, Preslav Nakov. NAACL 2018
-11. [Stance Prediction and Claim Verification: An Arabic Perspective](https://aclanthology.org/2020.fever-1.2/). Jude Khouja. 2020 FEVER
-12. [Joint Rumour Stance and Veracity Prediction](https://aclanthology.org/W19-6122/). Anders Edelbo Lillie, Emil Refsgaard Middelboe, Leon Derczynski. 2019 NoDaLiDa
-13. [DanFEVER: claim verification dataset for Danish](https://aclanthology.org/2021.nodalida-main.47/) Jeppe Nørregaard, Leon Derczynski. 2021 NoDaLiDa
+11. [Stance Prediction and Claim Verification: An Arabic Perspective](https://aclanthology.org/2020.fever-1.2/). Jude Khouja. FEVER 2020 
+12. [Joint Rumour Stance and Veracity Prediction](https://aclanthology.org/W19-6122/). Anders Edelbo Lillie, Emil Refsgaard Middelboe, Leon Derczynski. NoDaLiDa 2019
+13. [DanFEVER: claim verification dataset for Danish](https://aclanthology.org/2021.nodalida-main.47/) Jeppe Nørregaard, Leon Derczynski. NoDaLiDa 2021
+14. [MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims](https://aclanthology.org/D19-1475/) Isabelle Augenstein, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen. EMNLP 2019 
+15. [Towards Debiasing Fact Verification Models](https://aclanthology.org/D19-1341/). Tal Schuster, Darsh Shah, Yun Jie Serene Yeo, Daniel Roberto Filizzola Ortiz, Enrico Santus, Regina Barzilay. EMNLP 2019
+16. [End-to-End Bias Mitigation by Modelling Biases in Corpora](https://aclanthology.org/2020.acl-main.769/). Rabeeh Karimi Mahabadi, Yonatan Belinkov, James Henderson. ACL 2020
+17. [Mind the Trade-off: Debiasing NLU Models without Degrading the In-distribution Performance](https://aclanthology.org/2020.acl-main.770/). Prasetya Ajie Utama, Nafise Sadat Moosavi, Iryna Gurevych. ACL 2020
+18. [Scientific Claim Verification with VerT5erini](https://aclanthology.org/2021.louhi-1.11/). Ronak Pradeep, Xueguang Ma, Rodrigo Nogueira, Jimmy Lin. LOUHI 2021
+19. [Dense Passage Retrieval for Open-Domain Question Answering](https://aclanthology.org/2020.emnlp-main.550/). Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, Wen-tau Yih. EMNLP 2020
+20. [What Was Written vs. Who Read It: News Media Profiling Using Text Analysis and Social Media Context](https://aclanthology.org/2020.acl-main.308/). Ramy Baly, Georgi Karadzhov, Jisun An, Haewoon Kwak, Yoan Dinkov, Ahmed Ali, James Glass, Preslav Nakov. ACL 2020
+21. [Generating Fact Checking Explanations](https://aclanthology.org/2020.acl-main.656/). Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein. ACL 2020
+22. [Explainable Automated Fact-Checking for Public Health Claims](https://aclanthology.org/2020.emnlp-main.623/). Neema Kotonya, Francesca Toni. EMNLP 2020
+
+
+
+
+
+
 
 
 
