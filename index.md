@@ -10,7 +10,12 @@ The growth of online platforms has greatly facilitated the way people communicat
 ## Target Audience and Prerequisites
 Based on the level of interest in this topic, we expect around 150 participants. While no specific background knowledge is assumed of the audience, it would be best for the attendees to know basic deep learning, pre-trained word embeddings (e.g., Word2Vec) and language models (e.g.,BERT).
 
-
+## Table of Contents
+* [Outline](#outline)
+  * [Background and Motivation](#background-and-motivation)
+  * [Fake News Detection](#fake-news-detection-60min)
+    * [Special Note on Neural Fake News Generation & Detection](#special-note-on-neural-fake-news-generation--detection)
+  * [Fake News Characterization](#fake-news-characterization-30min)
 
 
 ## Outline
@@ -99,6 +104,7 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 2. [A survey on automated fact-checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking). Zhijiang Guo, Michael Schlichtkrull, Andreas Vlachos. TACL 2022.
 3. [Compare to the knowledge: Graph neural fake news detection with external knowledge](https://aclanthology.org/2021.acl-long.62/). Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. ACL 2021 
 4. [That is a known lie: Detecting previously fact-checked claims](https://aclanthology.org/2020.acl-main.332/). Shaden Shaar, Nikolay Babulkov, Giovanni Da San Martino, Preslav Nakov. ACL 2020
+5. [Fact or Fiction: Verifying Scientific Claims](https://aclanthology.org/2020.emnlp-main.609/). David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, Hannaneh Hajishirzi. EMNLP 2020
 
 #### Semantic Consistency
 
