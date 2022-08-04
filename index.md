@@ -108,11 +108,19 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 
 #### Fact Checking
 
-1. [Predicting factuality of reporting and bias of news media sources](https://aclanthology.org/D18-1389/). Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass, Preslav Nakov. EMNLP 2018.
-2. [A survey on automated fact-checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking). Zhijiang Guo, Michael Schlichtkrull, Andreas Vlachos. TACL 2022.
+1. [Predicting factuality of reporting and bias of news media sources](https://aclanthology.org/D18-1389/). Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass, Preslav Nakov. EMNLP 2018
+2. [A survey on automated fact-checking](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00454/109469/A-Survey-on-Automated-Fact-Checking). Zhijiang Guo, Michael Schlichtkrull, Andreas Vlachos. TACL 2022
 3. [Compare to the knowledge: Graph neural fake news detection with external knowledge](https://aclanthology.org/2021.acl-long.62/). Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. ACL 2021 
 4. [That is a known lie: Detecting previously fact-checked claims](https://aclanthology.org/2020.acl-main.332/). Shaden Shaar, Nikolay Babulkov, Giovanni Da San Martino, Preslav Nakov. ACL 2020
 5. [Fact or Fiction: Verifying Scientific Claims](https://aclanthology.org/2020.emnlp-main.609/). David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, Hannaneh Hajishirzi. EMNLP 2020
+6. [FEVER: a Large-scale Dataset for Fact Extraction and VERification](https://aclanthology.org/N18-1074/). James Thorne, Andreas Vlachos, Christos Christodoulopoulos, Arpit Mittal. NAACL 2018
+7. [COVID-Fact: Fact Extraction and Verification of Real-World Claims on COVID-19 Pandemic](https://aclanthology.org/2021.acl-long.165/). Arkadiy Saakyan, Tuhin Chakrabarty, Smaranda Muresan. ACL 2021
+8. [“Liar, Liar Pants on Fire”: A New Benchmark Dataset for Fake News Detection](https://aclanthology.org/P17-2067/). William Yang Wang. ACL 2017
+9. [X-Fact: A New Benchmark Dataset for Multilingual Fact Checking](https://aclanthology.org/2021.acl-short.86/). Ashim Gupta, Vivek Srikumar. ACL 2021
+
+
+
+
 
 #### Semantic Consistency
 
@@ -146,6 +154,7 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 4. [Edited media understanding frames: Reasoning about the intent and implications of visual misinformation](https://aclanthology.org/2021.acl-long.158/). Jeff Da, Maxwell Forbes, Rowan Zellers, Anthony Zheng, Jena D. Hwang, Antoine Bosselut, Yejin Choi. ACL 2021
 5. [Detecting propaganda techniques in memes](https://aclanthology.org/2021.acl-long.516/). Dimitar Dimitrov, Bishr Bin Ali, Shaden Shaar, Firoj Alam, Fabrizio Silvestri, Hamed Firooz, Preslav Nakov, Giovanni Da San Martino. ACL 2021
 6. [MOMENTA: A multimodal framework for detecting harmful memes and their targets](https://aclanthology.org/2021.findings-emnlp.379/). Shraman Pramanick, Shivam Sharma, Dimitar I. Dimitrov, Md. Shad Akhtar, Preslav Nakov, Tanmoy Chakraborty. Findings of EMNLP 2021
+7. [Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking](https://aclanthology.org/D17-1317/). Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi. EMNLP 2017
 
 ### Corrective Actions for Misinformation and Biased News Reporting
 
