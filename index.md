@@ -146,8 +146,10 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 4. [Text-Image De-Contextualization Detection Using Vision-Language Models](https://ieeexplore.ieee.org/document/9746193). Mingzhen Huang, Shan Jia, Ming-Ching Chang, Siwei Lyu. ICASSP 2022
 5. [Detecting cross-modal inconsistency to defend against neural fake news](https://aclanthology.org/2020.emnlp-main.163/). Reuben Tan, Bryan Plummer, Kate Saenko. EMNLP 2020
 6. [Misinformation detection in social media video posts](https://arxiv.org/abs/2202.07706). Kehan Wang, David Chan, Seth Z. Zhao, J. Canny, A. Zakhor. Arxiv 2022
-7. [Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/). Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. ACL 2021.
-8. [Text-Image De-Contextualization Detection Using Vision-Language Models](https://ieeexplore.ieee.org/document/9746193). Mingzhen Huang, Shan Jia and Siwei Lyu. ICASSP 2022
+7. [Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/). Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. ACL 2021
+8. [Learning Transferable Visual Models From Natural Language Supervision](https://icml.cc/media/icml-2021/Slides/9193.pdf).Alec Radford, Jong Wook Kim, Chris Hallacy, A. Ramesh, Gabriel Goh, Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark, Gretchen Krueger, Ilya Sutskever. ICML  2021
+9. [NewsCLIPpings: Automatic Generation of Out-of-Context Multimodal Media](https://aclanthology.org/2021.emnlp-main.545/). Grace Luo, Trevor Darrell, Anna Rohrbach. EMNLP 2021
+10. [Fine-Grained Visual Entailment](https://arxiv.org/abs/2203.15704). Christopher Thomas, Yipeng Zhang, Shih-Fu Chang. ECCV 2022
 
 #### Propagation Patterns
 
