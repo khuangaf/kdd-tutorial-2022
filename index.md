@@ -105,6 +105,8 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 1. [The language of legal and illegal activity on the Darknet](https://aclanthology.org/P19-1419/). Leshem Choshen, Dan Eldad, Daniel Hershcovich, Elior Sulem, Omri Abend. ACL 2019
 2. [Automatic detection of fake news](https://aclanthology.org/C18-1287/). Verónica Pérez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea. COLING 2018
 3. [Truth of varying shades: Analyzing language in fake news and political fact-checking](https://aclanthology.org/D17-1317/). Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi. EMNLP 2017.
+4. [This Just In: Fake News Packs a Lot in Title, Uses Simpler, Repetitive Content in Text Body, More Similar to Satire than Real News](https://arxiv.org/abs/1703.09398). Benjamin D. Horne, Sibel Adali. Arxiv 2017.
+5. 
 
 #### Fact Checking
 
@@ -137,12 +139,6 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 
 
 
-
-
-
-
-
-
 #### Semantic Consistency
 
 1. [Learning hierarchical discourse-level structure for fake news detection](https://aclanthology.org/N19-1347/). Hamid Karimi, Jiliang Tang. NAACL 2019
@@ -151,12 +147,15 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 4. [Text-Image De-Contextualization Detection Using Vision-Language Models](https://ieeexplore.ieee.org/document/9746193). Mingzhen Huang, Shan Jia, Ming-Ching Chang, Siwei Lyu. ICASSP 2022
 5. [Detecting cross-modal inconsistency to defend against neural fake news](https://aclanthology.org/2020.emnlp-main.163/). Reuben Tan, Bryan Plummer, Kate Saenko. EMNLP 2020
 6. [Misinformation detection in social media video posts](https://arxiv.org/abs/2202.07706). Kehan Wang, David Chan, Seth Z. Zhao, J. Canny, A. Zakhor. Arxiv 2022
+7. [Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/). Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. ACL 2021.
 
 #### Propagation Patterns
 
 1. [Causal understanding of fake news dissemination on social media](https://dl.acm.org/doi/10.1145/3447548.3467321). Lu Cheng, Ruocheng Guo, Kai Shu, Huan Liu. KDD 2021
 2. [GCAN: Graph-aware co-attention networks for explainable fake news detection on social media](https://aclanthology.org/2020.acl-main.48/). Yi-Ju Lu, Cheng-Te Li. ACL 2020
 3. [Hierarchical propagation networks for fake news detection: Investigation and exploitation](https://ojs.aaai.org/index.php/ICWSM/article/view/7329). Kai Shu, Deepak Mahudeswaran, Suhang Wang, Huan Liu. ICWSM 2020
+4. [FakeNewsNet: A Data Repository with News Content, Social Context, and Spatiotemporal Information for Studying Fake News on Social Media](https://pubmed.ncbi.nlm.nih.gov/32491943/). Kai Shu, Deepak Mahudeswaran, Suhang Wang, Dongwon Lee, Huan Liu. Big Data 2020
+5. [FANG: Leveraging Social Context for Fake News Detection Using Graph Representation](http://dl.acm.org/citation.cfm?id=3412046). Van-Hoang Nguyen, Kazunari Sugiyama, Preslav Nakov, Min-Yen Kan. CIKM 2020
 
 #### Special notes on Fake News Generation
 
