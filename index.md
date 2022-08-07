@@ -106,7 +106,6 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 2. [Automatic detection of fake news](https://aclanthology.org/C18-1287/). Verónica Pérez-Rosas, Bennett Kleinberg, Alexandra Lefevre, Rada Mihalcea. COLING 2018
 3. [Truth of varying shades: Analyzing language in fake news and political fact-checking](https://aclanthology.org/D17-1317/). Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi. EMNLP 2017.
 4. [This Just In: Fake News Packs a Lot in Title, Uses Simpler, Repetitive Content in Text Body, More Similar to Satire than Real News](https://arxiv.org/abs/1703.09398). Benjamin D. Horne, Sibel Adali. Arxiv 2017.
-5. 
 
 #### Fact Checking
 
@@ -148,6 +147,7 @@ Additional information is available at [https://en.wikipedia.org/wiki/Preslav_Na
 5. [Detecting cross-modal inconsistency to defend against neural fake news](https://aclanthology.org/2020.emnlp-main.163/). Reuben Tan, Bryan Plummer, Kate Saenko. EMNLP 2020
 6. [Misinformation detection in social media video posts](https://arxiv.org/abs/2202.07706). Kehan Wang, David Chan, Seth Z. Zhao, J. Canny, A. Zakhor. Arxiv 2022
 7. [Compare to The Knowledge: Graph Neural Fake News Detection with External Knowledge](https://aclanthology.org/2021.acl-long.62/). Linmei Hu, Tianchi Yang, Luhao Zhang, Wanjun Zhong, Duyu Tang, Chuan Shi, Nan Duan, Ming Zhou. ACL 2021.
+8. [Text-Image De-Contextualization Detection Using Vision-Language Models](https://ieeexplore.ieee.org/document/9746193). Mingzhen Huang, Shan Jia and Siwei Lyu. ICASSP 2022
 
 #### Propagation Patterns
 
